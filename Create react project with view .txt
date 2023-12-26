@@ -1,0 +1,4 @@
+Create react project with view 
+npm create vite@latest
+npm install
+npm run dev

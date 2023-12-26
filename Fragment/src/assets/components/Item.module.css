@@ -1,0 +1,22 @@
+.kg-item {
+  background-color:beige;
+  text-align: center;
+  
+}
+
+.kg-span{
+  text-decoration: underline;
+}
+.app-heading{
+  font-style: italic;
+  text-align: center;
+}
+
+.kg-list {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: 800;
+}
+
+.btn {
+  float:  right;
+}

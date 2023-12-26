@@ -1,0 +1,19 @@
+h1 {
+  font-style: italic;
+  text-decoration: underline;
+}
+input {
+  width: 100%;
+}
+
+.item-container {
+  text-align: left;
+}
+
+.kg-button {
+  min-width: 196px;
+}
+ 
+.kg-row {
+  margin: 10px 5px;
+}
